@@ -52740,7 +52740,7 @@ r[s]=B.c.cL(r[s],6.283185307179586)
 if(q.geA()[s]>3.141592653589793)q.geA()[s]=6.283185307179586-q.geA()[s]
 if(!(q.geA()[s]<=0.01&&q.geA()[s]>=-0.01))r=q.geA()[s]<=3.151592653589793&&q.geA()[s]>=3.1315926535897933
 else r=!0
-if(r&&B.f.by(A.c2(0,Date.now()-q.gDs()[s].a).a,1000)>100){$.a9q().lm("playAudio",["assets/key-"+s+".wav"])
+if(r&&B.f.by(A.c2(0,Date.now()-q.gDs()[s].a).a,1000)>100){$.a9q().lm("playAudio",["https://github.com/Dusk-afk/polyrythm-web/raw/master/assets/assets/key-"+s+".wav"])
 q.gDs()[s]=new A.d8(Date.now(),!1)}}},
 $S:0}
 A.Xx.prototype={
